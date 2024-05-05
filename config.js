@@ -64,9 +64,9 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/mouricedevs/Gifted-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va8TzeF0AgW8dVET3U1w";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va8TzeF0AgW8dVET3U1w" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/9d15d21ba7dac8d51103e.jpg"
 
 
 
@@ -116,12 +116,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.2.5.1",
-  caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
+  caption : process.env.CAPTION || "ீ̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶͜͜͡︎̶̶̶̶̶̶̶𝛭𝛥𝐷𝛯 ீ̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶͜͜͡︎̶̶̶̶̶̶̶𝐵𝑌 ீ̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶͜͜͡︎̶̶̶̶̶̶̶𝐷𝛥𝑅𝛫 ீ̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶̶͜͜͡︎̶̶̶̶̶̶̶𝛯𝛻𝛪𝐿" , // ```『 ©²⁰²⁴ ʀᴀʜᴍᴀɴ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
  
-  author : process.env.PACK_AUTHER|| "Gifted Tech",
-  packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "Gifted Tech",
+  author : process.env.PACK_AUTHER|| "ʀᴀʜᴍᴀɴ-ᴍᴅ",
+  packname: process.env.PACK_NAME || "ʀᴀʜᴍᴀɴ-ᴍᴅ♥️",
+  botname : process.env.BOT_NAME  || "ʀᴀʜᴍᴀɴ-ᴍᴅ",
+  ownername:process.env.OWNER_NAME|| "𝐷𝛥𝑅𝛫 𝛯𝛻𝛪𝐿",
 
 
   errorChat : process.env.ERROR_CHAT || "",
