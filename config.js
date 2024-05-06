@@ -106,7 +106,7 @@ global.api_smd = "https://api-smd.onrender.com"
 global.scan = "https://web.giftedtechnexus.co.ke";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  "" ; // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID ||  "Gifted;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUtqeVVsa0ZrRW1XaGtEd2ZmQitiM01YQlprM216VHlNV0gvTTR4V2ltQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWVVQa0dJbFFLOUJqbmVVLzEyQlRVOUJKYzlZRVV1VUx1Y3RWY0hBNUJDTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFTnNnQmxEamo5NDhCb1hZdUlYVU5rSXc1MWVIWGFVMUlSVURKbXRlOUZJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4a1J6SGFYQTllejdzdlBlYXhiL3lmV25ld25TbjY1bmUxZ0xVYm5uRTAwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlVNQWdWeXBaUUd1OUhWZWcyUFN0emNnY3YvYm1Iam9KRlpjN3M0Vmw1WGM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhPMDdnMklpWGFJS2xKcDdOSmM0M1Z6UWpNbWhHOW5QTklGbTVRQ3RCaTQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV040dGlEdzQvN2JNWi9XWHBIcFIzUU5iLzdyWXkrZ2xMVkY5OGxiallrMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia1U1cS8yUjVCWkIyb0JxbEZNdEViVkUwaW1rUGVVWDhHRTFpTWR0QjRWMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikd4ODZyWlNTMVFvSGh5WGFLVUFnVnduTE9sRDJVTzVzODU0a2RvM21ndmdnVTE4QXVjS0p0V3JoQUZiWksxWitrOEdTUFk0OVhmek43R3BmM3NUWEN3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjAxLCJhZHZTZWNyZXRLZXkiOiJLWTlCVHo5cExQQjJpdFl4Zk05YmZGWHdud3NLTWh6ZXd3bFMxeDZMMzlnPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiIxX0Z1enlTVVRGNm5odXA0cElYUUx3IiwicGhvbmVJZCI6ImQ5OWU5NjI5LWI5MWQtNDRiOC1hMDliLWYwY2E3NjA5NWM2NCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ0Rkk0UjlkTTVGaUQyMHE4ZTZFQXB0VjVJRlU9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieXJBTEQ5TTBzTi8zbUtRSjZQMWVIRkdYMUVFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjhUSzFWUjk4IiwibWUiOnsiaWQiOiIyNjA5NzgxMTk3NjE6MTZAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiWU9SQU0g8J+Hv/Cfh7Lwn4e/8J+HpvCfh6zwn4enIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQbWErLzRERU51MTRyRUdHQWNnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJMbE12YXdjNklIQ2FUNlVQUXlpczhrTXM0VkRVZk9TaDVCVHJ4WTNnTGhRPSIsImFjY291bnRTaWduYXR1cmUiOiJTazBaQS9rM3pUMW1rcTZaY05nRi9aZm1MSDNlajVBN1JWZlVrSWEyVWYyYlY2dnMxMXQ1RzgxOGl0YTBYbGJQdVhHaFpldDR5Q0JVQ3dETFN5L0xDZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiWmI0TENyc1h4Q21abjR2am8rdGZQL3Y5NXcwYzFZS3cvekpXbVAwMmU4bWdRRFVXMU5UVkxXRUJ0eXpyL3Q2NklnaEFqTkwyWWFMU2VYSFFwS0kzRHc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNjA5NzgxMTk3NjE6MTZAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCUzVUTDJzSE9pQndtaytsRDBNb3JQSkRMT0ZRMUh6a29lUVU2OFdONEM0VSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxNDk4NTcwNCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFCSU8ifQ==" ; // PUT your SESSION_ID 
 
 
 module.exports = {
@@ -118,10 +118,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.2.5.1",
   caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*Gifted-Md*\n youtube.com/@giftedtechnexus"),
  
-  author : process.env.PACK_AUTHER|| "Gifted Tech",
-  packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "Gifted Tech",
+  author : process.env.PACK_AUTHER|| "Y O R A M Tech",
+  packname: process.env.PACK_NAME || "Waste it on me",
+  botname : process.env.BOT_NAME  || "Y O R A M",
+  ownername:process.env.OWNER_NAME|| "Y O R A M",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -129,8 +129,8 @@ module.exports = {
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "neLbXXrp8bSDcohnp1CW5UEa",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
-  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "0ee4a18c-5da7-4045-8af4-1266ec564abc",
+  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "Y O R A M ",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
