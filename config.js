@@ -54,13 +54,13 @@ global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
 global.email ="wabots@giftedtechnexus.co.ke"
 global.location="Eldoret,Kenya."
-global.mongodb= process.env.MONGODB_URI || "mongodb+srv://wasitech10:WASImd##12@cluster0.eclhxiz.mongodb.net/?retryWrites=true&w=majority"
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Wipeoutguild:<yorammal61@g.com>@cluster0.ryfi7fp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 
 
-global.DATABASE_URI = process.env.DATABASE_URL || ""
+global.DATABASE_URI = process.env.DATABASE_URL || "postgres://yoram_user:fT2nSWs5UiC2mSu8eVX6TKpkfeT1wqK1@dpg-cosm8rgl6cac73dj8hv0-a.oregon-postgres.render.com/yoram"
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/mouricedevs/Gifted-Md";
@@ -72,7 +72,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 global.devs = "254762016957,254110853827,254728746852,255655147353,254728782591" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "254762016957,254110853827,254728746852,255655147353,254728782591";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254762016957,254110853827,254728746852,255655147353,254728782591";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "260978119761";
 
 
 
