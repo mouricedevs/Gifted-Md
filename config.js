@@ -100,7 +100,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254762016957,25411085
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254762016957,254110853827,254728746852,255655147353,254728782591";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "263781330745";
 
 global.api_smd = "https://api-smd.onrender.com" 
 global.scan = "https://web.giftedtechnexus.co.ke";
@@ -118,10 +118,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.2.5.1",
   caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*Gifted-Md*\n youtube.com/@giftedtechnexus"),
  
-  author : process.env.PACK_AUTHER|| "Gifted Tech",
+  author : process.env.PACK_AUTHER|| "watson-Tech",
   packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "Gifted Tech",
+  botname : process.env.BOT_NAME  || "ɢwatson-xdᴅ",
+  ownername:process.env.OWNER_NAME|| "watsonfourpence",
 
 
   errorChat : process.env.ERROR_CHAT || "",
