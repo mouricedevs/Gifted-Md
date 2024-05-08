@@ -13,7 +13,7 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github = process.env.GITHUB || "https://github.com/mouricedevs/Gifted-Md";
+global.github = process.env.GITHUB || "https://github.com/Piku090909/Gifted-Md.git";
 global.gurl = process.env.GURL || "";
 global.website = process.env.GURL || "";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/31bd0d4a7700c06563a33.jpg";
@@ -37,7 +37,7 @@ global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "254762016957,254110853827,254728746852,255655147353,254728782591";
 
-global.api_smd = "https://api-smd.onrender.com";
+global.api_smd = "";
 global.scan = "https://web.giftedtechnexus.co.ke";
 
 global.SESSION_ID =
