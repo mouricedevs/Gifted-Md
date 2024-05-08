@@ -70,7 +70,7 @@
 ---
 1.  **Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://session.giftedtechnexus.co.ke/pair) OR BY [`SCANNING QR CODE1`](https://session.giftedtechnexus.co.ke/qr) OR BY [`SCANNING QR CODE2`](https://session.giftedtechnexus.co.ke/qr2)** 
-3. **Deploy on [`HEROKU`](https://github.com/Piku090909/Gifted-Md.git)**
+3. **Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)**
 4.  **Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)**
 5.  **Deploy on [`Replit`](https://replit.com/github.com/mouricedevs/Gifted-Md)**
 6.  **Deploy on [`Railway`](https://railway.app/template/89ED3x?referralCode=WiTucG) You only need your session ID for railway deployment**
