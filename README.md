@@ -1,4 +1,4 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 3.0.0 </h1> 
+<h1 align="center"> alex-piku-Md ᴍᴅ Version 3.0.0 </h1> 
  <br>
 
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/31bd0d4a7700c06563a33.jpg">
   </a>
 </p>
     
@@ -30,7 +30,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.3.0.0 uses
+<p align="center"> alex-piku ᴍᴅ V.3.0.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -70,7 +70,7 @@
 ---
 1.  **Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://session.giftedtechnexus.co.ke/pair) OR BY [`SCANNING QR CODE1`](https://session.giftedtechnexus.co.ke/qr) OR BY [`SCANNING QR CODE2`](https://session.giftedtechnexus.co.ke/qr2)** 
-3. **Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)**
+3. **Deploy on [`HEROKU`](https://github.com/Piku090909/Gifted-Md.git)**
 4.  **Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)**
 5.  **Deploy on [`Replit`](https://replit.com/github.com/mouricedevs/Gifted-Md)**
 6.  **Deploy on [`Railway`](https://railway.app/template/89ED3x?referralCode=WiTucG) You only need your session ID for railway deployment**
