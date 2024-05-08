@@ -3,7 +3,7 @@ const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
 global.audio = "";
-global.video = "https://telegra.ph/file/204481823350f368c1826.mp4";
+global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "giftedmd@giftedtechnexus.co.ke";
@@ -14,9 +14,9 @@ global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github = process.env.GITHUB || "https://github.com/mouricedevs/Gifted-Md";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg";
+global.gurl = process.env.GURL || "";
+global.website = process.env.GURL || "";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/31bd0d4a7700c06563a33.jpg";
 global.devs = "254762016957,254110853827,254728746852,255655147353,254728782591";
 global.sudo = process.env.SUDO || "254762016957,254110853827,254728746852,255655147353,254728782591";
 global.owner = process.env.OWNER_NUMBER || "254762016957,254110853827,254728746852,255655147353,254728782591";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "3.0.0",
-  caption: process.env.CAPTION || "*ɢɪғᴛᴇᴅ-ᴍᴅ ᴠᴇʀsɪᴏɴ 3.0.0*",
-  author: process.env.PACK_AUTHER || "Gifted Tech",
-  packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname: process.env.BOT_NAME || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+  caption: process.env.CAPTION || "*alex-piku-Md ᴠᴇʀsɪᴏɴ 3.0.0*",
+  author: process.env.PACK_AUTHER || "alex-piku Tech",
+  packname: process.env.PACK_NAME || "alex-piku-Md♥️",
+  botname: process.env.BOT_NAME || "alex-piku-Md",
+  ownername: process.env.OWNER_NAME || "alex-piku ᴛᴇᴄʜ",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
