@@ -20,12 +20,12 @@ global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9IS
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg";
 global.devs = "254762016957,254110853827,254728746852,255655147353,254728782591";
 global.sudo = process.env.SUDO || "254762016957,254110853827,254728746852,255655147353,254728782591";
-global.owner = process.env.OWNER_NUMBER || "254762016957,254110853827,254728746852,255655147353,254728782591";
+global.owner = process.env.OWNER_NUMBER || "254762016957,254110853827,254728746852,255655147353,254728782591";919395599794
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
 global.warncount = process.env.WARN_COUNT || 5;
-global.disablepm = process.env.DISABLE_PM || "true";
+global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
 global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg";
@@ -52,8 +52,8 @@ module.exports = {
   caption: process.env.CAPTION || "*ɢɪғᴛᴇᴅ-ᴍᴅ ᴠᴇʀsɪᴏɴ 3.0.0*",
   author: process.env.PACK_AUTHER || "Gifted Tech",
   packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname: process.env.BOT_NAME || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+  botname: process.env.BOT_NAME || "Nabajyoti",
+  ownername: process.env.OWNER_NAME || "𝙎𝙄𝙂𝙈𝘼 𝙉𝘽",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
