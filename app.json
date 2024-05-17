@@ -10,68 +10,68 @@
   "env":{
     "PREFIX":
     {
-      "description":"choose your prefix of bot",
+      "description":"CrAY",
       "value":".",
       "required":true
     },
     "AUTO_READ_MESSAGES":
     {
-      "description":"Put yes if you want the bot to autoread people's messages or else put no", 
+      "description":"yes", 
       "value":"no", 
       "required":false 
     }, 
     "AUTO_READ_STATUS":
     {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "description":"yes",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
-      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
+      "description":"no",
       "value":"no",
       "required":false
     }
     ,
      "PM_PERMIT" :
      {
-      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
+      "description":"no",
       "value":"no",
       "required":false
     }
     ,
     "BOT_NAME" : {
 
-      "description":"put A name for your bot",
+      "description":"gift-masosote",
       "value":"GIFTED-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
 
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
+      "description":"url1"
       "value":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
       "required":false
 
      },
     "PUBLIC_MODE":
     {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
+      "description":"yes ",
       "value":"no",
       "required":false
     }
         ,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this can be optionnal but some features might be intefered with)",
+    "description": "non",
      "required" :false
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME",
+    "description": "non",
      "required" :false
     }  
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID , make sure it starts with Gifted;;; or GIFTED;;; or SESSION_",   
+      "description":"Gifted;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkVlOVlQamMzcHN4eitWY2tzVzhCcndXVi9GUjRHS2owVFpJZVFDdURXVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQURBZGpxdjN6aVhtRDg5L2drVmdJLzRGMUtYYmgyME1BRWpZTHdCMUlEND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIySnp0aFJOKzhlRTl1TkErVVhzb3JUY3NaUkpTWnBHbXpBOUZJSlErQUhrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJGM1hUZzkvK2dUcG4yWmthRnJCM0VNaXptZG44c1RFMFdPdjhqNHJwdlhvPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNJRXd0M3Fyb09FTkdHbUtWbDRQdHUvczR6aGI2ZG1XQ21veGViSGlwbkE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlpWUklkK2VIYmNES25EUjFIVWwrQ1VWdHhWbE9oUzdoQzQxaXFoSk1abGs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0hVcnYycGhsL2g4ZTRtN01oVnZrd002Q2hLVUZKQnRBTnZ3K3FTWXdIYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUkV6QUFycDZzeFdGby9SREFEaFNVRk55ZVcxcUlueUg0SGR0TGFnQS8yST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdjOGZGSWgzUVVHRVZnRnJ3dytjYzQwczNBMFJWSzYyMWN2VytuUy90ZjEraHZvbldHRk1iUERUYWYxQk1Zb2xxNER3YzdsZklyU1hGamlYcUh6UkFnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTEwLCJhZHZTZWNyZXRLZXkiOiJzbzhTRkNEYTU4RzNoOWkwcGlJemQ0YjVjTmd6U1ZYSDEvaUVVWHIydk1jPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJXUkx6MzJTSVI3ZTY5V0RPZXJZQXlBIiwicGhvbmVJZCI6ImNkMjcwNjAzLWQwOTgtNGM1Ny1hMmQ5LWU3YTkxNjlmNWYwOCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0YVExeVBlcUU4b2lPczNQcFdoeGNBWFNqRDg9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicWdVL2JsUHhWVjd1bUZIVVZvUko4MXdaVlVRPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlM1OUtCV0E3IiwibWUiOnsiaWQiOiIyNjM3ODE4NTg0MjM6OUBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJDcmFpYmVy8J+qgvCfh7/wn4e8In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQNkoyZkFHRU15OW43SUdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ5SCtmRFBwVjJ0MnpWRXkxQ1ZiVHN2OHVhR0luTFBTTWllMU00Q2F6L2lNPSIsImFjY291bnRTaWduYXR1cmUiOiJUTGxDRmM4Q0lFd1FyVzV4OE9oMVpCcEtMeW5ZSFlZajlxSWVKUGJhdXVzV1p2SVFEd3NsSVp2a3ovM0djUGgxaDF2REtPWGJENmFBUW02MkFDVVlEdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoid2JPSnB5ZThJMVhBKzAyb29lVVdvTnFFRVdJUUZvQkE5cEs3OXpGRjdWSk5sZ0I2K0NTOU1pNW5UcFVJNHZJb3ZURVh0ek4wdFdjdjNKK3lCZm9MQlE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNjM3ODE4NTg0MjM6OUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJjaC9ud3o2VmRyZHMxUk10UWxXMDdML0xtaGlKeXowakludFRPQW1zLzRqIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzE1OTg2MTM3fQ==",   
       "value":"",
       "required": true
 
@@ -79,37 +79,37 @@
     "OWNER_NAME":
     {
 
-    "desc": "Your Name",
+    "desc": "giftmasosote",
     "required": false,
     "value": "Gifted Tech"
   },
     "OWNER_NUMBER":
   {
 
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc"263781858423",
     "required":false,
     "value": "254728782591,254762016957"
   },
     "WARN_COUNT":
   {
-    "desc": "this is the limit of warn for warning commandes",
+    "desc"5",
     "required": false,
     "value": "5"
   },
     "CHAT_BOT":
     {
-      "desc": "Put yes to allow the bot to chat with people who text you or put no if you don't want the bot to chat with people",
+      "desc": "no",
       "required": false, 
        "value": "no" 
     }, 
   "STARTING_BOT_MESSAGE":
   {
-    "description": "if you don't want startting-bot-message put no else put yes",
+    "description": "yes",
     "required": true,
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Put online to indicate that you are ever online even if you are not. Put typing to indicate that you are currently typing a message. Put recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+    "description":"online",
     "value":"online",
     "required": false
   }  
