@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "lukas-tech"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": false,
-      "value": "2547110853827"
+      "value": "252682642802"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -41,17 +41,17 @@
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Put true if you want bot to show always online",
@@ -61,17 +61,17 @@
     "AUTO_DOWNLOAD": {
       "description": "Put true if you need to download media by using link without cmd",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_BLOCK": {
       "description": "Put true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": "true"
+      "value": "falsee"
     },
     "AUTO_REACT": {
       "description": "Put value to true or false",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
@@ -91,7 +91,7 @@
     "AUTO_REJECT_CALLS": {
       "description": "Put true if you want to reject call",
       "required": false,
-      "value": "false"
+      "value": "true"
      }
     },
     "formation": {
