@@ -25,8 +25,8 @@ const config = {
   MODE: process.env.MODE || 'private',
   PREFIX: process.env.PREFIX || '.',
   PORT: process.env.PORT || "5000", /* Where App Will Listen On */
-  OWNER_NAME: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254110853827",
+  OWNER_NAME: process.env.OWNER_NAME || "dark tv",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "2348184367270",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
 
