@@ -3,7 +3,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "Gifted~VnwCHPvP",
+  SESSION_ID: process.env.SESSION_ID || "Gifted~k0EX98N0",
   HEROKU_API_TOKEN: process.env.HEROKU_API_TOKEN || "HRKU-0a1fe665-8a35-42e8-b7ad-761f25ffe195",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   KOYEB_API_TOKEN: process.env.KOYEB_API_TOKEN || "",
@@ -23,11 +23,11 @@ const config = {
   AUTO_REJECT_CALLS: process.env.AUTO_REJECT_CALLS !== undefined ? process.env.REJECT_CALL === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || 'private',
-  PREFIX: process.env.PREFIX || '.',
+  PREFIX: process.env.PREFIX || '!',
   PORT: process.env.PORT || "5000", /* Where App Will Listen On */
   OWNER_NAME: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254110853827",
-  WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254103524425",
+  WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'false' : false, 
 };
 
 
