@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> GIFTED-MD VERSION 5.0.0  </h1>
+<h1 align="center>INZA-MD VERSION 5.0.0  </h1>
 <h1 align="center"> ғᴜʟʟʏ ʙᴜᴛᴛᴏɴᴇᴅ </h1>
 <p align="center"> 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -92,6 +92,7 @@
 - ETHIX-XSID
 - BOT USERS
 - MYSELF
+- INZA 
 </details>
 
 **👇FOR UPDATES:**
