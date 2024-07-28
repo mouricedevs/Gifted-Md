@@ -1,51 +1,167 @@
-<h1 align="center"> GIFTED-MD VERSION 4.0.0  </h1>
-<p align="center">  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-***
- <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.4.0.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
+<details>
+<summary>𝐕𝐈𝐄𝐖 𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆</summary>
+  
+- 𝑩𝒐𝒕 𝑭𝒖𝒍𝒍𝒚 𝑩𝒖𝒕𝒕𝒐𝒏𝒆𝒅.
+- 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈.
+- 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑺𝒊𝒕𝒆𝒔.
+- 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍𝒔.
+- 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔.
 
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{mouricedevs}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
+</details>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+  <p align="center">
+<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<p/>
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md"><b>Gifted-Md V.4.0.0</b></a> Supports Deploy On...
-</p>
+<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
+<a href="https://github.com/mouricedevs/gifted-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted-md?&style=social"></a>
+<a href="https://github.com/mouricedevs/gifted-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted-md?style=social"></a>
+<a href="https://github.com/mouricedevs/gifted-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted-md?label=Watching&style=social"></a>
 
-<p align="center">
-  <a href="https://web.giftedtechnexus.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+## 𝟏. 𝐒𝐄𝐓 𝐔𝐏:
 
-<p align="center">Need help? please create an <a href="https://github.com/mouricedevs/Gifted-Md/issues">issue</a></p>
+**👇FORK REPO(A MUST)**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
+- This is essential for you to obtain an editable repo to **[upload](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** your creds.json file
 
----
+<a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+</details>
 
- <h3>Gifted-MD V.4.0.0 Stats</h3>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-![Giftd-mdV3 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
+### 𝟐. 𝐋𝐈𝐍𝐊 𝐖𝐈𝐓𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
+
+<details>
+<summary>GET YOUR SESSION_ID</summary>
+<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+
+- Session ID must start with **Gifted~** and is 15 characters in length.
+</details>
+
+**OR**
+
+<details>
+<summary>GET YOUR CREDS.JSON FILE</summary>
+
+<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
+
+</details>
+
+- Then **[Upload](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** your creds.json file in the **[session folder](https://github.com/mouricedevs/Gifted-Md/tree/main/session)**
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 𝟑. 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍:
+**(A) HEROKU DEPLOYMENT**
+
+<details>
+<summary>CREDS.JSON DEPLOY</summary>
+  
+- After you've **[uploaded your creds.json](https://github.com/mouricedevs/Gifted-Md/tree/main/session),** create a new heroku app, link your github, connect the repo you've uploaded your session file then click on deploy.
+
+<a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-purple" alt="Pairing Code" width="150"></a>
+
+<a href="https://youtu.be/3NpmjBUUBUc"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Pairing Code" width="150"></a>
+  
+```
+https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-Md
+```
+
+</details>
+
+<details>
+<summary>SESSION_ID DEPLOY</summary>
+<a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
+  
+<a href="https://web.giftedtechnexus.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
+</details>
+
+  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(B) RENDER DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://dashboard.render.com/signup"><img src="https://img.shields.io/badge/RENDER%20SIGNUP-green" alt="Render" width="150"></a>
+
+<a href="https://youtu.be/TVu8CQPPliM?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(C) GITHUB DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://youtu.be/0JiVJy7AzwI?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-yellow" alt="Github Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(D) KOYEB DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/KOYEB%20SIGNUP-purple" alt="Koyeb" width="150"></a>
+
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmouricedevs%2FGifted-Md&branch=main&name=ethix-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(E) RAINHOST DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://dash.rainxzet.com"><img src="https://img.shields.io/badge/RAINHOST%20SIGNUP-green" alt="Rainhost" width="150"></a>
+<a href="https://github.com/mouricedevs/Gifted-Md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://youtu.be/8YpaGQQN_x4"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Rainhost Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(F) SCALINGO DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://scalingo.com/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-    
-   
-## Gifted-Md V.4.0.0 Deployment Methods
----
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://web.giftedtechnexus.co.ke/sessions/pair) OR BY [`SCANNING QR CODE1`](https://web.giftedtechnexus.co.ke/sessions/qr) OR BY [`SCANNING QR CODE2`](https://web.giftedtechnexus.co.ke/sessions/qr2)** 
-3. **Deploy on [`HEROKU`](https://web.giftedtechnexus.co.ke/deploy/platforms/heroku)**
-8. **You can visit Bot Web [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke) for more**
-9. **All Tutorials Available [`HERE`](https://youtube.com/@giftedtechnexus)**
+### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 & 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
 
-##
----
+**👇CREDITS:**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
+- MH MODS OFC
+- ETHIX-XSID
+- BOT USERS
+- MYSELF
+</details>
 
+**👇FOR UPDATES:**
 
-- Star ⭐ repo if you like this bot.
-- If any problem, then [`Contact Me Here`](https://t.me/giftedmd)
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
+- **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
+- **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
+</details>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### I Am
-- [Gifted Tech](https://github.com/mouricedevs) 
+### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
----
-### Credits to:
-- [Bro France King](https://github.com/franceking1)
+[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted-md&type=Timeline)](#)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

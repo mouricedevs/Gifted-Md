@@ -1,144 +1,114 @@
 {
-  "name":"gifted-md@4.0.0",
-  "description":"A MultiDevice WhatsApp Bot Created by Gifted Tech",
-  "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "repository":"https://github.com/mouricedevs/Gifted-Md",
-  "succes_url":"/",
-"stack":"heroku-22",
-
-  "env":{
-    "PREFIX":
-    {
-      "description":"choose your prefix of bot",
-      "value":".",
-      "required":true
+  "name": "gifted-md@v5.0.0",
+  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "website": "https://web.giftedtechnexus.co.ke",
+  "repository": "https://github.com/mouricedevs/gifted-md",
+  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "success_url": "/",
+  "stack": "heroku-24",
+  "env": { 
+    "MODE": {
+      "description": "Put Mode either public or private",
+      "required": true,
+      "value": "private"
     },
-    "AUTO_READ_MESSAGES":
-    {
-      "description":"Put yes if you want the bot to autoread people's messages or else put no", 
-      "value":"no", 
-      "required":false 
-    }, 
-    "AUTO_READ_STATUS":
-    {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
-      "required":false
-    }, "AUTO_DOWNLOAD_STATUS":
-    {
-      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
-      "required":false
-    }
-    ,
-     "PM_PERMIT" :
-     {
-      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
-      "required":false
-    }
-    ,
-    "BOT_NAME" : {
-
-      "description":"put A name for your bot",
-      "value":"GIFTED-MD",
-      "required":false
-
-    } ,
-     "BOT_MENU_LINKS" : {
-
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-      "required":false
-
-     },
-    "PUBLIC_MODE":
-    {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
-      "required":false
-    }
-        ,
-    "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this can be optionnal but some features might be intefered with)",
-     "required" :false
+     "OWNER_NAME": {
+      "description": "Put the name of Bot Owner",
+      "required": false,
+      "value": "GIFTED TECH"
     },
-   "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME",
-     "required" :false
-    }  
-          ,
-    "SESSION_ID":
-    {
-      "description":"put your session ID , make sure it starts with Gifted;;; or GIFTED;;; or SESSION_",   
-      "value":"",
-      "required": true
-
+    "SESSION_ID": {
+      "description": "Put Your SESSION_ID Here. It must startwithGifted~",
+      "required": true,
+      "value": ""
     },
-    "OWNER_NAME":
-    {
-
-    "desc": "Your Name",
-    "required": false,
-    "value": "Gifted Tech"
-  },
-    "OWNER_NUMBER":
-  {
-
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":false,
-    "value": "254728782591,254762016957"
-  },
-    "WARN_COUNT":
-  {
-    "desc": "this is the limit of warn for warning commandes",
-    "required": false,
-    "value": "5"
-  },
-    "CHAT_BOT":
-    {
-      "desc": "Put yes to allow the bot to chat with people who text you or put no if you don't want the bot to chat with people",
-      "required": false, 
-       "value": "no" 
-    }, 
-  "STARTING_BOT_MESSAGE":
-  {
-    "description": "if you don't want startting-bot-message put no else put yes",
-    "required": true,
-    "value": "yes"
-  },
-  "PRESENCE":{
-    "description":"Put online to indicate that you are ever online even if you are not. Put typing to indicate that you are currently typing a message. Put recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"online",
-    "required": false
-  }  
-  },
-
-
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
+    "OWNER_NUMBER": {
+      "description": "Put Bot Owner Number",
+      "required": false,
+      "value": "254110853827"
     },
-
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+     "NOT_ALLOW": {
+      "description": "Put value true to disable bot in pm during public mode.",
+      "required": false,
+      "value": "false"
     },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ],
-
-  "formation": {
-                "worker": {
+     "WELCOME": {
+      "description": "Put true or false to enableand disable group welcoming and goodbye messages",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Put true if you want bot to view status",
+      "required": false,
+      "value": "true"
+    },
+    "AUTO_READ": {
+      "description": "Put true if you want bot to read message",
+      "required": false,
+      "value": ""
+    },
+    "AUTO_TYPING": {
+      "description": "Put true if you want bot to show typing",
+      "required": false,
+      "value": ""
+    },
+    "AUTO_RECORDING": {
+      "description": "Put true if you want bot to show recording audio",
+      "required": false,
+      "value": ""
+    },
+    "ALWAYS_ONLINE": {
+      "description": "Put true if you want bot to show always online",
+      "required": false,
+      "value": "true"
+    },
+    "AUTO_DOWNLOAD": {
+      "description": "Put true if you need to download media by using link without cmd",
+      "required": false,
+      "value": "true"
+    },
+    "AUTO_BLOCK": {
+      "description": "Put true if you want bot to auto block only 212 numbers",
+      "required": false,
+      "value": "true"
+    },
+    "AUTO_REACT": {
+      "description": "Put value to true or false",
+      "required": false,
+      "value": "false"
+    },
+     "HEROKU_APP_NAME": {
+      "description": "Put your heroku app name as entered above.",
+      "required": false,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "You can leave blank for bot to use multiple prefixes",
+      "required": false,
+      "value": "."
+    },
+     "DEPLOYMENT_PLATFORM": {
+      "description": "Leave the value to default unless otherwise. ",
+      "required": true,
+      "value": "heroku"
+    },
+    "AUTO_REJECT_CALLS": {
+      "description": "Put true if you want to reject call",
+      "required": false,
+      "value": "false"
+     }
+    },
+    "formation": {
+                "web": {
                         "quantity": 1,
-                        "size": "basic"
+                        "size": "Standard-2X"
                 }
         },
-
-  "addons":[
-    {
-      "plan":"heroku-postgresql"
-    }
+    "addons": [{ "plan": "heroku-postgresql:essential-0" }],
+    "buildpacks": [
+    {"url": "https://github.com/heroku/heroku-buildpack-nodejs#latest"},
+    {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"},
+    {"url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"}
   ]
-}
+    }
