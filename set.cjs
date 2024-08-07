@@ -26,7 +26,7 @@ const config = {
   MODE: process.env.MODE || 'public',
   PREFIX: process.env.PREFIX || '.',
   PORT: process.env.PORT || "5000", /* Where App Will Listen On */
-  OWNER_NAME: process.env.OWNER_NAME || "PROFESSOR TECH",
+  OWNER_NAME: process.env.OWNER_NAME || "PROFESSORS TECH",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "254112658916",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false,
 };
