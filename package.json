@@ -50,7 +50,7 @@
     "megajs": "^1.1.4",
     "mfiredlcore-vihangayt": "^1.0.0",
     "moment-timezone": "^0.5.45",
-    "mouricedevs": "npm:@distube/ytdl-core",
+    "mouricedevs": "npm:@distube/ytdl-core@latest",
     "mumaker": "^2.0.0",
     "nayan-media-downloader": "^2.4.3",
     "nayan-server": "^2.3.8",
@@ -76,7 +76,7 @@
     "uuid": "^9.0.1",
     "@vitalets/google-translate-api": "^9.2.0",
     "wa-sticker-formatter": "^2.0.1",
-    "yt-search": "^2.11.0" 
+    "yt-search": "^2.11.0"
       },
      "directories": {
       "lib": "gift",
@@ -93,4 +93,4 @@
       "url": "https://github.com/mouricedevs/Gifted-Md/issues"
    },
    "homepage": "https://github.com/mouricedevs/Gifted-Md#readme"
-  }
+}
