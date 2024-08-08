@@ -15,12 +15,12 @@
     },
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
-      "required": false,
+      "required": true,
       "value": "GIFTED TECH"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
-      "required": false,
+      "required": true,
       "value": "254110853827"
     },
     "AUTO_STICKER": {
@@ -30,7 +30,7 @@
     },
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
-      "required": false,
+      "required": true,
       "value": ""
     },
      "NOT_ALLOW": {
@@ -40,7 +40,7 @@
     },
      "WELCOME": {
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "AUTO_READ_STATUS": {
@@ -65,7 +65,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "Put true if you want bot to show always online",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTO_DOWNLOAD": {
@@ -100,14 +100,14 @@
     },
     "AUTO_REJECT_CALLS": {
       "description": "Put true if you want to reject call",
-      "required": false,
+      "required": true,
       "value": "false"
      }
     },
     "formation": {
                 "web": {
                         "quantity": 1,
-                        "size": "Standard-1X"
+                        "size": "basic"
                 }
         },
     "addons": [{ "plan": "heroku-postgresql:essential-0" }],
@@ -116,4 +116,4 @@
     {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"},
     {"url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"}
   ]
-}
+    }
