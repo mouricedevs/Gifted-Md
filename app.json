@@ -29,8 +29,8 @@
       "value": "false"
     },
     "SESSION_ID": {
-      "description": "Put your SESSION_ID.  Must start with Gifted~",
-      "required": true,
+      "description": "Put your SESSION_ID.  Must start with Gifted~....Leave Blank if you're Deploying Using Creds.json",
+      "required": false,
       "value": ""
     },
      "NOT_ALLOW": {
