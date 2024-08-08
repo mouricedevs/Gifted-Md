@@ -1,6 +1,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+- ***NB: For Bot to run 24/7 Without Errors, Please Deploy Using Creds.json or Session ID Obtained from Replit Pairing***
+
 
 <details>
 <summary>𝐕𝐈𝐄𝐖 𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆</summary>
